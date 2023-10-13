@@ -30,7 +30,6 @@ pip install reportlab
 
 - `load_images_from_folder(folder_path)`: Loads all images from a folder into a list.
 - `process_image(image_path, cell_size)`: Processes an image by resizing it and adding a black border and a random number.
-- `main()`: The main function that handles the entire process.
 
 ## License
 
